@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+jupyter
+tensorflow-gpu
+keras
+rasterio
+sentinelhub
+tqdm
+seaborn
+keras-tqdm
